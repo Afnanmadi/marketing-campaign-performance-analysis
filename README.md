@@ -91,15 +91,18 @@ marketing-campaign-performance-analysis/
 │
 
 ├── data/
-│   └── marketing_campaign_dataset.csv
+│
+└── marketing_campaign_dataset.csv
 │
 
 ├── dashboard/
-│   └── marketing_campaign_dashboard.pbix
+│
+└── marketing_campaign_dashboard.pbix
 │
 
 ├── screenshots/
-│   └── dashboard.png
+│
+└── dashboard.png
 │
 
 └── README.md

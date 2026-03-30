@@ -87,16 +87,21 @@ Marketing teams need to understand:
 ## 📁 Repository Structure
 
 marketing-campaign-performance-analysis/
+
 │
+
 ├── data/
 │   └── marketing_campaign_dataset.csv
 │
+
 ├── dashboard/
 │   └── marketing_campaign_dashboard.pbix
 │
+
 ├── screenshots/
 │   └── dashboard.png
 │
+
 └── README.md
 
 ---

@@ -84,7 +84,7 @@ Marketing teams need to understand:
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure
 
 marketing-campaign-performance-analysis/
 │
